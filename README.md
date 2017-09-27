@@ -1,0 +1,1 @@
+input, parse to float, count using by if statement, print
